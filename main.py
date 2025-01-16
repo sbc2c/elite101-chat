@@ -18,6 +18,7 @@ def next_choice():
     chat();
   else:
      quit
+     print('goodbye friend, i hope to see you soo. :) ')
 
 def chat():
   input('How was your day so far');
